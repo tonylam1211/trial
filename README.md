@@ -8,9 +8,9 @@ Confused!!!!
 ***~~I Love GitHub~~***
 
 ***
-- [x]self studying
-- [x]self studying
-- [x]self studying
-- [ ]learn from him
+- [x] self studying
+- [x] self studying
+- [x] self studying
+- [ ] learn from him
 
 That was great!
